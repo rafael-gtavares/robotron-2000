@@ -7,14 +7,6 @@
 
 O **Robotron 2000** é uma interface interativa de customização de um robô de batalha. O projeto foi desenvolvido para aprofundar conhecimentos em JavaScript, especificamente na manipulação de elementos HTML e estilos CSS de forma dinâmica.
 
----
-
-## 📸 Demonstração
-
-![Captura de tela do Robotron 2000](LINK_DA_SUA_IMAGEM_AQUI)
-
----
-
 ## 🛠️ Funcionalidades
 
 * **Montagem Customizada:** Adicione ou remova peças (Braços, Blindagem, Núcleos, Pernas e Foguetes).
@@ -25,8 +17,6 @@ O **Robotron 2000** é uma interface interativa de customização de um robô de
 
 ## 🚀 Desafios e Aprendizados
 
-Este projeto foi um marco na minha transição do **Python (Terminal)** para o desenvolvimento **Front-end**. 
-
 * **Manipulação do DOM:** Aprender como o JavaScript "conversa" com o HTML através de `querySelectorAll` e `dataset`.
 * **Data Attributes:** Utilização de `data-` attributes para manter o código JS independente das classes de estilo (CSS), seguindo boas práticas de organização.
 * **Lógica de Proteção:** Adicionei uma camada extra de lógica para tratar valores negativos, garantindo que o usuário não pudesse "quebrar" os atributos do robô ao clicar repetidamente no botão de subtrair.
@@ -36,13 +26,10 @@ Este projeto foi um marco na minha transição do **Python (Terminal)** para o d
 ## 🔧 Tecnologias Utilizadas
 
 1.  **HTML5**: Estruturação semântica.
-2.  **CSS3**: Estilização futurista e responsividade.
+2.  **CSS3**: Estilização futurista e moderna.
 3.  **JavaScript (ES6+)**: Lógica de interação, objetos e eventos.
 
 ---
 
-## 📦 Como rodar o projeto
+## 📦 O projeto está disponível em: https://rafael-gtavares.github.io/robotron-2000/
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/robotron-2000.git](https://github.com/SEU_USUARIO/robotron-2000.git)
