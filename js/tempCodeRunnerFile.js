@@ -1,0 +1,1 @@
+console.log(evento.target.parentNode);
